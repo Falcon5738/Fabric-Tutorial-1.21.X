@@ -4,5 +4,10 @@
   "item.tutorialmod.the_shard": "The Shard",
 
   "block.tutorialmod.pink_garnet_block": "Block of Pink Garnet",
-  "block.tutorialmod.raw_pink_garnet_block": "Raw Block of Pink Garnet"
+  "block.tutorialmod.raw_pink_garnet_block": "Raw Block of Pink Garnet",
+  "block.tutorialmod.the_shard_block": "Block of The Shard",
+
+  "itemgroup.tutorialmod.pink_garnet_items": "Pink Garnet Items",
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Pink Garnet Blocks",
+  "itemgroup.tutorialmod.the_shard_items": "The Shard Items"
 }
